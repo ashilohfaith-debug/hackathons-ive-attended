@@ -6,6 +6,8 @@
 | 2. | Confluence 2.0 | SRM Kattankulathur | June 2026 | 81 hours | 2 | Self-defined | [InnSight](https://github.com/ashilohfaith-debug/InnSight) | Top 100 |
 | 3. | Shepreneurs Startup Hackathon | VIT Chennai | August 2026 | 10 days | 2 | Self-defined | [Ochre](https://github.com/ashilohfaith-debug/Ochre) | #22 |
 
+<br/>
+
 ## A list of the Hackathons I'm currently participating in
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
