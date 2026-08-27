@@ -12,4 +12,4 @@
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1. | SIH Internal Hackathon | JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [RailTwin](https://github.com/ashilohfaith-debug/Block-Train) | - |
+| 1. | SIH Internal Hackathon | JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
