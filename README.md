@@ -13,3 +13,11 @@
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1. | SIH Internal Hackathon | JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
+
+<br/>
+
+## A list of the Hackathons I'm yet to participate in
+
+| S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
+|---|---|---|---|---|---|---|---|---|
+| 1. | Asian Paints Alchemy 2026 | Asian Paints | October 2026 | - | 2 | Transportation and Logistics | - | - |
