@@ -21,3 +21,4 @@
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1. | Asian Paints Alchemy 2026 | Asian Paints | October 2026 | - | 2 | - | - | - |
+| 2. | E.ON Future Makers Challenge | Infosys | - | - | 2 | - | - | - |
