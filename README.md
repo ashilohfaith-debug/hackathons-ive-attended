@@ -3,7 +3,7 @@
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1. | Dev Hub 1.0 | VIT Chennai | March 2026 | 24 hours | 3 | Cryptocurrency | [Cryptexa](https://github.com/ashilohfaith-debug/Cryptexa) | Finalist |
-| 2. | Confluence 2.0 | SRM Kattankulathur | June 2026 | 81 hours | 2 | Self-defined | [InnSight](https://github.com/ashilohfaith-debug/InnSight) | #34 among Top 100 |
+| 2. | Confluence 2.0 | SRM Kattankulathur | June 2026 | 81 hours | 2 | Self-defined | [InnSight](https://github.com/ashilohfaith-debug/InnSight) | #34 in Top 100 |
 | 3. | Shepreneurs Startup Hackathon | VIT Chennai | July 2026 | 10 days | 2 | Self-defined | [Ochre](https://github.com/ashilohfaith-debug/Ochre) | #22 |
 | 4. | SIH Internal Hackathon | CSE Dept., JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | #1 |
 
