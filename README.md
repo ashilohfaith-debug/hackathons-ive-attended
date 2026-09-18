@@ -14,6 +14,7 @@
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1. | SIH | - | 2026 | - | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
+| 2. | Orion | - | 2026 | - | 6 |  | FLOATCHAT | - |
 
 <br/>
 
