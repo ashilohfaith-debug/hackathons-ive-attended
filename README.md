@@ -11,7 +11,7 @@
 
 <br/>
 
-## A list of the Hackathons I'm currently participating in
+## A list of Hackathons I'm currently participating in
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 
 <br/>
 
-## A list of the Hackathons I'm yet to participate in
+## A list of Hackathons I'm yet to participate in
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
