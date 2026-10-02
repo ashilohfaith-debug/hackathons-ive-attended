@@ -7,7 +7,7 @@
 | 3. | Shepreneurs Startup Hackathon | Shepreneurs, SheBuilds, TechVerse Solutions | July 2026 | 10 days | 2 | Self-defined | [Ochre](https://github.com/ashilohfaith-debug/Ochre) | #22 among 160 submissions |
 | 4. | PEC Hacks 4.0 | Panimalar Engineering College | August 2026 | 36 hours | 5 | Open Track | AI Fitness Smart Watch | Eliminated after online PPT round |
 | 5. | SIH Internal Hackathon | CSE Dept., JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | #1 |
-| 6. | Orion 1.0 | Microsoft Club SIST | October 2026 | 24 hours | 6 | - | - | Eliminated after online PPT round |
+| 6. | Orion 1.0 | Microsoft Club SIST | October 2026 | 24 hours | 6 | Ocean Informatics | FloatChat | Eliminated after online PPT round |
 
 <br/>
 
