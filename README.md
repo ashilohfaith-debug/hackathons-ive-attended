@@ -1,4 +1,4 @@
-## A list of the Hackathons I've attended so far
+## A list of Hackathons I've attended so far
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
