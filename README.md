@@ -24,6 +24,4 @@
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1. | E.ON Future Makers Challenge | Infosys | - | - | 2 | - | - | - |
-| 2. | Dogfood | Hackathon Raptors | September 2026 | 72 hours | - | - | - | - |
-| 3. | Data Analytics Hackathon | Gradient Learnings | September 2026 | 24 hours | 2 | - | - | - |
+| 1. | - | - | - | - | - | - | - | - |
