@@ -16,7 +16,7 @@
 
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1. | SIH | Ministry of Education, India | 2026 | - | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
+| 1. | SIH | Ministry of Education | 2026 | - | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
 
 <br/>
 
