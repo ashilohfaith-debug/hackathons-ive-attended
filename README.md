@@ -8,6 +8,7 @@
 | 4. | PEC Hacks 4.0 | Panimalar Engineering College | August 2026 | 36 hours | 5 | Open Track | AI Fitness Smart Watch | Eliminated after online PPT round |
 | 5. | SIH Internal Hackathon | CSE Dept., JCE Chennai | August 2026 | 1 week | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | #1 |
 | 6. | Orion 1.0 | Microsoft Club SIST | October 2026 | 24 hours | 6 | Ocean Informatics | FloatChat | Eliminated after online PPT round |
+| 7. | SerpApi India Hackathon | SerpApi | October 2026 | Submission based | 2 | AI Agents | [Relay](https://github.com/ashilohfaith-debug/SerpAPIHack) | - |
 
 <br/>
 
@@ -16,7 +17,6 @@
 | S.No. | Hackathon | Organiser | Date | Duration | Team Count | Track | Project | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1. | SIH | - | 2026 | - | 6 | Transportation and Logistics | [BlockTrain](https://github.com/ashilohfaith-debug/Block-Train) | - |
-| 2. | SerpApi India Hackathon | SerpApi | October 2026 | Submission based | 2 | AI Agents | [Relay](https://github.com/ashilohfaith-debug/SerpAPIHack) | - |
 
 <br/>
 
